@@ -71,7 +71,6 @@ Z-AI is an **enterprise-grade AI platform** that provides a comprehensive suite 
 > This documentation is generated based on:
 > - ✅ **Directly Observable**: SDK APIs, tool definitions, system prompt context
 > - ✅ **Inferrable**: Common architectural patterns for AI systems
-> - ⚠️ **Not Directly Known**: Actual server infrastructure, cloud provider details, proprietary model architecture
 >
 > **What I CAN confirm:**
 > - SDK structure and API patterns (visible in system context)
